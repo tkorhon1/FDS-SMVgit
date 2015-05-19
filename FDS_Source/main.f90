@@ -40,6 +40,8 @@ USE SOOT_ROUTINES, ONLY: CALC_AGGLOMERATION
 
 ! dummy comment to test git
 
+! another dummy change
+
 ! dummy comment to force svn change - Sun May 10 21:56:38 EDT 2015
 
 IMPLICIT NONE
