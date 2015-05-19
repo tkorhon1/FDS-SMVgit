@@ -38,7 +38,7 @@ USE SCRC, ONLY: SCARC_SETUP, SCARC_SOLVER, SCARC_TIMINGS, GET_REV_SCRC
 USE BOXTETRA_ROUTINES, ONLY: GET_REV_gsmv
 USE SOOT_ROUTINES, ONLY: CALC_AGGLOMERATION
 
-! new dummy commit as project member to gforney repo
+! yet another test of git
 
 ! dummy comment to force svn change - Sun May 10 21:56:38 EDT 2015
 
