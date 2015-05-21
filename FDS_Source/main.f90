@@ -45,7 +45,7 @@ IMPLICIT NONE
 ! Miscellaneous declarations
 
 CHARACTER(255), PARAMETER :: mainid='$Id: main.f90 22707 2015-05-21 18:56:56Z gforney $'
-CHARACTER(255), PARAMETER :: mainrev='$Revision: 22707 $'
+CHARACTER(255), PARAMETER :: mainrev='$Revision: unknown $'
 CHARACTER(255), PARAMETER :: maindate='$Date: 2015-05-21 14:56:56 -0400 (Thu, 21 May 2015) $'
 
 
@@ -3686,7 +3686,7 @@ CHARACTER(LEN=255), INTENT(OUT) :: REVISION, REVISION_DATE, COMPILE_DATE
 ! called after FDS is built to return these keywords back to their original
 ! values (so the revisioning system will not think this file has changed).
 
-CHARACTER(255), PARAMETER :: GREVISION='$Revision: 22707 $'
+CHARACTER(255), PARAMETER :: GREVISION='$Revision: unknown $'
 CHARACTER(255), PARAMETER :: GREVISION_DATE='$RevisionDate: unknown $'
 CHARACTER(255), PARAMETER :: GCOMPILE_DATE='$CompileDate: unknown $'
 
