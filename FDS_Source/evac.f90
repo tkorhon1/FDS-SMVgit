@@ -30,9 +30,9 @@ MODULE EVAC
   !
   IMPLICIT NONE
   !
-  CHARACTER(255), PARAMETER :: evacid='$Id: evac.f90 22534 2015-04-28 12:16:48Z tkorhon1@gmail.com $'
-  CHARACTER(255), PARAMETER :: evacrev='$Revision: 22534 $'
-  CHARACTER(255), PARAMETER :: evacdate='$Date: 2015-04-28 08:16:48 -0400 (Tue, 28 Apr 2015) $'
+  CHARACTER(255), PARAMETER :: evacid='$Id: evac.f90 22658 2015-05-11 20:44:10Z mcgratta $'
+  CHARACTER(255), PARAMETER :: evacrev='$Revision: 22658 $'
+  CHARACTER(255), PARAMETER :: evacdate='$Date: 2015-05-11 16:44:10 -0400 (Mon, 11 May 2015) $'
   !
   PRIVATE
   ! Public subprograms (called from the main program or read or dump)
@@ -16596,12 +16596,14 @@ CONTAINS
     ! Passed variables
     INTEGER,INTENT(INOUT) :: MODULE_REV
     CHARACTER(255),INTENT(INOUT) :: MODULE_DATE
+    INTEGER :: IERR
     !
     ! Local variables
     !
 
     WRITE(MODULE_DATE,'(A)') evacrev(INDEX(evacrev,':')+2:LEN_TRIM(evacrev)-2)
-    READ (MODULE_DATE,'(I5)') MODULE_REV
+    READ (MODULE_DATE,'(I5)',IOSTAT=IERR) MODULE_REV
+    IF (IERR/=0) MODULE_REV = 0
     WRITE(MODULE_DATE,'(A)') evacdate
 
   END SUBROUTINE GET_REV_EVAC

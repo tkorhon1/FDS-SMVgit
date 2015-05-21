@@ -18,9 +18,9 @@
 !*********************************************************
 Module DCDFLIB
   Implicit None
-  CHARACTER(255), PARAMETER :: ievaid='$Id: ieva.f90 21232 2014-12-23 09:11:11Z tkorhon1@gmail.com $'
-  CHARACTER(255), PARAMETER :: ievarev='$Revision: 21232 $'
-  CHARACTER(255), PARAMETER :: ievadate='$Date: 2014-12-23 04:11:11 -0500 (Tue, 23 Dec 2014) $'
+  CHARACTER(255), PARAMETER :: ievaid='$Id: ieva.f90 22658 2015-05-11 20:44:10Z mcgratta $'
+  CHARACTER(255), PARAMETER :: ievarev='$Revision: 22658 $'
+  CHARACTER(255), PARAMETER :: ievadate='$Date: 2015-05-11 16:44:10 -0400 (Mon, 11 May 2015) $'
 
   Private
   Public cdfbet,cdfgam,cdfnor,GET_REV_ieva,gamma
@@ -13418,9 +13418,11 @@ Contains
 SUBROUTINE GET_REV_ieva(MODULE_REV,MODULE_DATE)
 INTEGER,INTENT(INOUT) :: MODULE_REV
 CHARACTER(255),INTENT(INOUT) :: MODULE_DATE
+INTEGER :: IERR
 
 WRITE(MODULE_DATE,'(A)') ievarev(INDEX(ievarev,':')+2:LEN_TRIM(ievarev)-2)
-READ (MODULE_DATE,'(I5)') MODULE_REV
+READ (MODULE_DATE,'(I5)',IOSTAT=IERR) MODULE_REV
+IF (IERR/=0) MODULE_REV = 0
 WRITE(MODULE_DATE,'(A)') ievadate
 
 END SUBROUTINE GET_REV_ieva
