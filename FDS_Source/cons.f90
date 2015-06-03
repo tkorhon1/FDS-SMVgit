@@ -1,4 +1,5 @@
 MODULE GLOBAL_CONSTANTS
+! dummy commit
 
 ! Module containing global constants, parameters, variables
 
