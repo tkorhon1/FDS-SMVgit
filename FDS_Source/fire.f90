@@ -34,7 +34,7 @@ IF (INIT_HRRPUV) RETURN
 
 CALL POINT_TO_MESH(NM)
 
-! Upper bounds on local HRR per unit volume
+! Upper bounds on local HRR per unit volume (may be removed for finite rate chemistry)
 
 Q_UPPER = HRRPUA_SHEET/CELL_SIZE + HRRPUV_AVERAGE
 
