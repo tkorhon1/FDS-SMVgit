@@ -3,3 +3,4 @@
 *.o
 *.mod
 *.obj
+fds_intel_*
