@@ -1,5 +1,5 @@
 PROGRAM FDS  
-! dummy change made in branch test_branch
+! dummy change made in branch test_branch - conflict change
 ! another dummy change
 
 ! Fire Dynamics Simulator, Main Program, Multiple CPU version.
