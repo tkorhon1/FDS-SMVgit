@@ -1,6 +1,22 @@
-#
+
+# compiler output files
 *.exe
 *.o
 *.mod
 *.obj
+*.pdb
 fds_intel_*
+*.exp
+*.lib
+
+# latex output files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.err
+*.lof
+*.log
+*.out
+*.pdfsync
+*.toc
