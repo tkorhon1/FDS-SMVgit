@@ -3,4 +3,5 @@
 *.o
 *.mod
 *.obj
+*.pdb
 fds_intel_*
