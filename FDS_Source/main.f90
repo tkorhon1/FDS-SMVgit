@@ -1,6 +1,6 @@
 PROGRAM FDS  
 ! dummy change made in branch test_branch - third conflict test - resolved
-! another dummy change (fourth conflict test - flame(gpf))
+! another dummy change (resolved fourth conflict test - flame(gpf))
 
 ! Fire Dynamics Simulator, Main Program, Multiple CPU version.
 
