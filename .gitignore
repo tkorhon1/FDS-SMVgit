@@ -5,3 +5,5 @@
 *.obj
 *.pdb
 fds_intel_*
+*.exp
+*.lib
