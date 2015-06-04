@@ -1,0 +1,422 @@
+..\Makefile:77: warning: overriding commands for target `.F90.o'
+..\Makefile:73: warning: ignoring old commands for target `.F90.o'
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/main.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+main.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/menus.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+menus.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/IOscript.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+IOscript.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/IOshooter.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+IOshooter.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/glui_devices.cpp
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+glui_devices.cpp
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/glui_shooter.cpp
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+glui_shooter.cpp
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/glui_wui.cpp
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+glui_wui.cpp
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//shared/csphere.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+csphere.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/colortimebar.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+colortimebar.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//shared/smv_endian.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+smv_endian.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/camera.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+camera.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/IOgeometry.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+IOgeometry.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/IOhrr.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+IOhrr.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/IOwui.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+IOwui.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/IOobject.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+IOobject.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/IOtour.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+IOtour.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/glui_display.cpp
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+glui_display.cpp
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/glui_tour.cpp
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+glui_tour.cpp
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/getdatacolors.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+getdatacolors.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/smokeview.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+smokeview.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/output.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+output.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/renderfile.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+renderfile.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//shared/isobox.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+isobox.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/getdatabounds.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+getdatabounds.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/readsmv.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+readsmv.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/scontour2d.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+scontour2d.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/glui_3dsmoke.cpp
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+glui_3dsmoke.cpp
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/glui_clip.cpp
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+glui_clip.cpp
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/glui_stereo.cpp
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+glui_stereo.cpp
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/glui_geometry.cpp
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+glui_geometry.cpp
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/glui_motion.cpp
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+glui_motion.cpp
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/glui_bounds.cpp
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+glui_bounds.cpp
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//shared/dmalloc.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+dmalloc.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//shared/interp.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+interp.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//shared/assert.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+assert.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/compress3dc.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+compress3dc.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//shared/compress.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+compress.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/IOvolsmoke.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+IOvolsmoke.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/IOsmoke.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+IOsmoke.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/IOplot3d.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+IOplot3d.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/IOslice.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+IOslice.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/IOboundary.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+IOboundary.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/IOpart.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+IOpart.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/IOzone.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+IOzone.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/IOiso.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+IOiso.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/IOtarget.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+IOtarget.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/callbacks.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+callbacks.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/drawGeometry.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+drawGeometry.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/glui_colorbar.cpp
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+glui_colorbar.cpp
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/skybox.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+skybox.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//shared/file_util.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+file_util.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//shared/string_util.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+string_util.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/startup.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+startup.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/glui_trainer.cpp
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+glui_trainer.cpp
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/shaders.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+shaders.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/unit.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+unit.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/threader.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+threader.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//shared/histogram.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+histogram.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//shared/translate.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+translate.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/update.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+update.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/viewports.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+viewports.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/smv_geometry.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+smv_geometry.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//shared/geometry.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+geometry.c
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//smokeview/showscene.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+showscene.c
+ifort -c /Od /iface:stdref /fpp /nologo /debug:full /extend_source:132 /warn:unused /warn:nointerfaces /Qtrapuv /fp:strict /fp:except /traceback /check:all /stand:f08 ../../source//smokeview/fdsmodules.F90
+ifort -c /Od /iface:stdref /fpp /nologo /debug:full /extend_source:132 /warn:unused /warn:nointerfaces /Qtrapuv /fp:strict /fp:except /traceback /check:all /stand:f08 ../../../FDS_Source/gsmv.F90
+ifort -c /Od /iface:stdref /fpp /nologo /debug:full /extend_source:132 /warn:unused /warn:nointerfaces /Qtrapuv /fp:strict /fp:except /traceback /check:all /stand:f08 ../../source//smokeview/getdata.F90
+ifort -c /Od /iface:stdref /fpp /nologo /debug:full /extend_source:132 /warn:unused /warn:nointerfaces /Qtrapuv /fp:strict /fp:except /traceback /check:all /stand:f08 ../../source//smokeview/getsizes.F90
+icl -c /Od -Wall /ZI -D WIN32 -D pp_INTEL -D _CONSOLE -D X64 -D GLEW_STATIC -D PTW32_STATIC_LIB -D pp_BETA -I ../../source/include -I ../../source/shared -I ../../source/smokeview -I ../../source/glew ../../source//glew/glew.c
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+glew.c
+icl -o ./smokeview_win_test_64_db /F32768000 /DEBUG main.obj menus.obj IOscript.obj IOshooter.obj glui_devices.obj glui_shooter.obj glui_wui.obj csphere.obj colortimebar.obj smv_endian.obj camera.obj IOgeometry.obj IOhrr.obj IOwui.obj IOobject.obj IOtour.obj glui_display.obj glui_tour.obj getdatacolors.obj smokeview.obj output.obj renderfile.obj isobox.obj getdatabounds.obj readsmv.obj scontour2d.obj glui_3dsmoke.obj glui_clip.obj glui_stereo.obj glui_geometry.obj glui_motion.obj glui_bounds.obj dmalloc.obj interp.obj assert.obj compress3dc.obj compress.obj IOvolsmoke.obj IOsmoke.obj IOplot3d.obj IOslice.obj IOboundary.obj IOpart.obj IOzone.obj IOiso.obj IOtarget.obj callbacks.obj drawGeometry.obj glui_colorbar.obj skybox.obj file_util.obj string_util.obj startup.obj glui_trainer.obj shaders.obj unit.obj threader.obj histogram.obj translate.obj update.obj viewports.obj smv_geometry.obj geometry.obj showscene.obj fdsmodules.obj gsmv.obj getdata.obj getsizes.obj glew.obj user32.lib gdi32.lib comdlg32.lib shell32.lib ../../source//../Build/LIBS/lib_win_intel_64\glui.lib ../../source//../Build/LIBS/lib_win_intel_64\glut32.lib ../../source//../Build/LIBS/lib_win_intel_64\gd.lib ../../source//../Build/LIBS/lib_win_intel_64\jpeg.lib ../../source//../Build/LIBS/lib_win_intel_64\png.lib ../../source//../Build/LIBS/lib_win_intel_64\zlib.lib ../../source//../Build/LIBS/lib_win_intel_64\pthreads.lib
+Intel(R) C++ Intel(R) 64 Compiler XE for applications running on Intel(R) 64, Version 15.0.1.148 Build 20141023
+Copyright (C) 1985-2014 Intel Corporation.  All rights reserved.
+
+Microsoft (R) Incremental Linker Version 11.00.61030.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+-out:.\smokeview_win_test_64_db.exe 
+-stack:32768000 
+main.obj 
+menus.obj 
+IOscript.obj 
+IOshooter.obj 
+glui_devices.obj 
+glui_shooter.obj 
+glui_wui.obj 
+csphere.obj 
+colortimebar.obj 
+smv_endian.obj 
+camera.obj 
+IOgeometry.obj 
+IOhrr.obj 
+IOwui.obj 
+IOobject.obj 
+IOtour.obj 
+glui_display.obj 
+glui_tour.obj 
+getdatacolors.obj 
+smokeview.obj 
+output.obj 
+renderfile.obj 
+isobox.obj 
+getdatabounds.obj 
+readsmv.obj 
+scontour2d.obj 
+glui_3dsmoke.obj 
+glui_clip.obj 
+glui_stereo.obj 
+glui_geometry.obj 
+glui_motion.obj 
+glui_bounds.obj 
+dmalloc.obj 
+interp.obj 
+assert.obj 
+compress3dc.obj 
+compress.obj 
+IOvolsmoke.obj 
+IOsmoke.obj 
+IOplot3d.obj 
+IOslice.obj 
+IOboundary.obj 
+IOpart.obj 
+IOzone.obj 
+IOiso.obj 
+IOtarget.obj 
+callbacks.obj 
+drawGeometry.obj 
+glui_colorbar.obj 
+skybox.obj 
+file_util.obj 
+string_util.obj 
+startup.obj 
+glui_trainer.obj 
+shaders.obj 
+unit.obj 
+threader.obj 
+histogram.obj 
+translate.obj 
+update.obj 
+viewports.obj 
+smv_geometry.obj 
+geometry.obj 
+showscene.obj 
+fdsmodules.obj 
+gsmv.obj 
+getdata.obj 
+getsizes.obj 
+glew.obj 
+user32.lib 
+gdi32.lib 
+comdlg32.lib 
+shell32.lib 
+../../source//../Build/LIBS/lib_win_intel_64\glui.lib 
+../../source//../Build/LIBS/lib_win_intel_64\glut32.lib 
+../../source//../Build/LIBS/lib_win_intel_64\gd.lib 
+../../source//../Build/LIBS/lib_win_intel_64\jpeg.lib 
+../../source//../Build/LIBS/lib_win_intel_64\png.lib 
+../../source//../Build/LIBS/lib_win_intel_64\zlib.lib 
+../../source//../Build/LIBS/lib_win_intel_64\pthreads.lib 
+   Creating library .\smokeview_win_test_64_db.lib and object .\smokeview_win_test_64_db.exp
+Press any key to continue . . . 
