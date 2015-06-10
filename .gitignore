@@ -1,3 +1,4 @@
+# mac file
 .DS_Store
 
 # compiler output files
@@ -6,9 +7,11 @@
 *.mod
 *.obj
 *.pdb
-fds_intel_*
 *.exp
 *.lib
+
+# fds executables
+fds_intel_*
 
 # latex output files
 *.aux
