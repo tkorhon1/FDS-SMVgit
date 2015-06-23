@@ -2,7 +2,7 @@ PROGRAM FDS
 ! dummy change made in branch test_branch - third conflict test - resolved
 ! another dummy change (fifth conflict test - flame(gpf))
 
-! rjm test
+! rjm test mcgrattan adds
 
 ! Fire Dynamics Simulator, Main Program, Multiple CPU version.
 
